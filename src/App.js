@@ -228,7 +228,7 @@ function App() {
                 "1px solid " + (darkTheme ? "#444" : "#ddd"),
             }}
           >
-            <a href="https://managepro-gant-chart.vercel.app/">Contact Us</a>
+            <a href="https://contact-us-hazel-tau.vercel.app/">Contact Us</a>
           </div>
           
 <div>
