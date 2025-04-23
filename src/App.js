@@ -215,7 +215,7 @@ function App() {
                 "1px solid " + (darkTheme ? "#444" : "#ddd"),
             }}
           >
-            <a href="https://ashraf2004.github.io/ManagePro_chart/">
+            <a href="https://managepro-gant-chart.vercel.app/">
               Ghant chart
             </a>
           </div>
@@ -228,7 +228,7 @@ function App() {
                 "1px solid " + (darkTheme ? "#444" : "#ddd"),
             }}
           >
-            <a href="https://ashraf2004.github.io/ManagePro_Members/">Team Members</a>
+            <a href="https://managepro-gant-chart.vercel.app/">Contact Us</a>
           </div>
           
 <div>
